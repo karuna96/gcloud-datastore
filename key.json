@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "gcloud-datastore-244004",
+    "private_key_id": "d02a5b99850c93a4953fc30cc015588e0b30715d",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC+/6LBpRImSLe1\nJQpSNBNaikgbIHXR0QFpBeFd+yruTqse8ZoKRRaqp6hmM7gY5Twn5fdgr+HCMSVN\nJVAgZ5HIT+nlZW1pAwdEBZiOCuOmNYgKSfzQ3BPi13SDkwRvLCgDVzJ5TKKeFHh/\ncUPNmGAEadXlUodhha/FngQC+dNKs6opbRuDRQGTAQfrMS0T9Pf+4ofy0hec3kXn\nWXt+3VxnSjOJfLL3HSpbQUpr3ZuVw0liCD/toUeAtQ5c1EbwQYKldHf/xjyYT8nI\nXkiV2+iQglaiUGIzRlVUbiRhlZeXkiG/AfzxnFyO7n2ZDsJJ3njcpvOlbW2vWhrB\nv617PEkzAgMBAAECggEAHvxJ4zBsaVmStAh2TC+2lBGq8PurIYbOu8MAdMayiEaq\n7DI100SyEK1yXGI3k5Jc1/wuzbi6304pxwIupZMny19ripOR1F9xZk+iGCkcFXLJ\nxyGJqjiJ4Vsiw9Wt+nsnYqNaxOLx3sNjaQlu/oOh0BV7ZeClpeSSR3UDIZh19sA3\nGnzOqaZ9gSLqAaI3anVKOSd6AFgSwYhFXC0BqRhgQet69icPR/Vi53JVaJ5QrWf5\ngwRma9FolBuwvTo596RLkntNMovBTSU3Zd9dwyd+ptG7dnDNHjULUZQryAiz3Wd/\np7yMI3ybIXJJRa+AI2FjI3zBOvgm0mNVbnQvmIn/AQKBgQDpBu9E3GL7suaRb5eh\nt+3W4cuZze8GKVFdWzde4ZFiPa1l2GsfF41VmFruSNUww+3vvee2H7aiebiAau2r\noha5spWjNAUCRFs4C2BaXEn9zZGOOblDmwhLSc1tjFYy/1CpIEUF4jRrWE1u5/lf\nq7zVDIwL8+Ni+KpuP7G9bwz98QKBgQDR0/+kB0O0Z1EXyz7K0EK7Dy34KjsGDDrg\nWZu1/Y+ObeeeEt+/0M9UKdQi2xf9IDdsQPmX3F4dSSWo4/XX8APMD2f9G0lSYnAg\nNQcWzuvUdRxC6h/9rfT/SaD4as9iIt2RrgwKg7v14iDlRx7gVUgzZQHxVNpS4yGF\nK1Vy62ZlYwKBgQCH6VOEhkX1J9Ly4HNAD1bZDbkCa+oNXevm11zkKgvxkKehzygr\nakE0uzfN4wz09FHCkrCiuLx85yGFRNh6Un+Or2o3Vg/V0qihd4ErMsi1D0DmAyTb\nGYEs6E64pjFgbSlOe1PGqriII2iGVyZLdo8cc8T687Sb9QzyYJP6ONsLAQKBgQCl\nV0JoRHkrXQZfk35lXnpW4H0+wjhEabqzMqkqXSWT/DK5MvIxOh9FmLhaxv4+Lfa+\nTOzgp3tZ5FvSm98LS0wSrkko/ylly7/DAUYWyPK4NZgRel+/DCa0S5aWacQE9qhV\ntSoz1t5zwL5fLQ29hDYimYNQYaawDd5KC32H0sqbNQKBgQDQqohf15rk1Rj05MDh\nL3jE0tV2FDblmao3y2Yhu1Rx1pRIqe+bSvXdfwDEUMVBnof2kbLoBXOcYhH4g2tt\nDgajGn4cbWBDNAOnWCH3p7mLzeVV527+Mz0OX7lsED7FFGVmDEWxOwETj6Jd8i1H\nNLiE+dtbsRwoif1H5sOfpDXN5Q==\n-----END PRIVATE KEY-----\n",
+    "client_email": "gcloud-service-account-494@gcloud-datastore-244004.iam.gserviceaccount.com",
+    "client_id": "110639494747822026815",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gcloud-service-account-494%40gcloud-datastore-244004.iam.gserviceaccount.com"
+  }
+  
